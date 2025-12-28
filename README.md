@@ -5,15 +5,15 @@
 
 ## 👩‍💻 About Me
 - 🎓 Computer Science Engineering student  
-- 💻 Interested in **Software Development, Machine Learning & Full Stack**  
-- 🌱 Currently improving **DSA, ML projects & Web Development**  
-- 🚀 Learning in public and building real-world projects  
+- 💻 Interested in **Software Development, Machine Learning & Full Stack Development**  
+- 🌱 Currently learning **DSA, ML projects & Web Development**  
+- 🚀 Building real-world projects and learning in public  
 
 ---
 
 ## 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,flask,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,mongodb,ml,mysql,git,github" />
 </p>
 
 ---
@@ -21,26 +21,15 @@
 ## 📌 Featured Projects
 - 🔹 **Machine Learning Projects** – regression, classification & analysis  
 - 🔹 **Full Stack Task Manager** – frontend + backend integration  
-- 🔹 **DSA Practice** – clean & consistent problem solving  
+- 🔹 **DSA Practice** – structured problem solving  
 
 👉 Check my pinned repositories below ⬇️
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaakshiPal&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaakshiPal&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/saakshi23/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
