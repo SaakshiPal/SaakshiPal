@@ -23,9 +23,13 @@
 - 🔹 **Full Stack Task Manager** – frontend + backend integration  
 - 🔹 **DSA Practice** – structured problem solving  
 
-👉 Check my pinned repositories below ⬇️
 
 ---
+## 📈 GitHub Learning Progress
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaakshiPal&theme=tokyo-night)
+
+
 
 ## 🌐 Connect With Me
 <p>
@@ -37,3 +41,5 @@
 ---
 
 ⭐ *“Consistency beats talent when talent doesn’t stay consistent.”*
+
+👉 Check my pinned repositories below ⬇️
